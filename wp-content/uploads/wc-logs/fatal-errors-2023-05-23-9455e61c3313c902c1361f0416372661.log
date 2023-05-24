@@ -1,0 +1,4 @@
+2023-05-23T15:01:20+00:00 CRITICAL Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.29. dans C:\xampp\htdocs\mywordpress\wp-content\plugins\blossomthemes-email-newsletter\vendor\composer\platform_check.php à la ligne 24
+
+2023-05-23T16:50:14+00:00 CRITICAL Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.3.29. dans C:\xampp\htdocs\mywordpress\wp-content\plugins\blossomthemes-email-newsletter\vendor\composer\platform_check.php à la ligne 24
+
